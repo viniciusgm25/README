@@ -1,8 +1,14 @@
-# Vinicius G. Mesquita
+# Vinicius Mesquita
 
 Desenvolvedor Back-end Júnior com foco em Sistemas e Engenharia de Software.
 
-Atuo no desenvolvimento de sistemas utilizando Java, Python e SQL, com experiência em projetos acadêmicos voltados à resolução de problemas reais, como controle de processos e digitalização de informações.
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso Ciência da Computação, com experiência em projetos acadêmicos voltados à resolução de problemas reais, como controle de processos e digitalização de informações.
+
+Atuo no desenvolvimento de sistemas utilizando Java, Python e SQL, aplicando conceitos de lógica de programação, modelagem de dados e organização de software.
+
+## Formação
+- Análise e Desenvolvimento de Sistemas (concluído)
+- Ciência da Computação (em andamento)
 
 ## Áreas de interesse
 - Desenvolvimento Back-end
