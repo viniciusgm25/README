@@ -1,35 +1,22 @@
-# Vinicius Mesquita
+## 👋 Olá, eu sou o Vinicius
 
-Desenvolvedor Back-end Júnior com foco em Sistemas e Engenharia de Software.
+Sou recém-formado em Análise e Desenvolvimento de Sistemas e atualmente curso Ciência da Computação. Tenho interesse em desenvolvimento back-end e engenharia de software.
 
-Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso Ciência da Computação, com experiência em projetos acadêmicos voltados à resolução de problemas reais, como controle de processos e digitalização de informações.
-
-Atuo no desenvolvimento de sistemas utilizando Java, Python e SQL, aplicando conceitos de lógica de programação, modelagem de dados e organização de software.
-
-## Formação
-- Análise e Desenvolvimento de Sistemas (concluído)
-- Ciência da Computação (em andamento)
-
-## Áreas de interesse
-- Desenvolvimento Back-end
-- Engenharia de Software
-- Sistemas de Informação
-- Modelagem de dados e lógica de negócio
-
-## Tecnologias
-- Java
+## 🚀 Tecnologias
+- Java (Spring Boot)
 - Python
 - SQL
-- HTML, CSS, JavaScript
-- Go
-- Git e GitHub
+- Git & GitHub
 
-## Projetos em destaque
+## 📌 Projetos em destaque
+- **API de Gerenciamento de Tarefas (Java / Spring Boot)**  
+  API REST desenvolvida após a graduação, com foco em boas práticas, organização em camadas e documentação com Swagger.
+
+- **Blackjack (21) em Python**  
+  Projeto pessoal focado em lógica de programação, regras de negócio e testes unitários.
+
 - **Sistema de Empréstimo de Ferramentas**  
-  Sistema acadêmico para controle de empréstimo e devolução de ferramentas, com foco em lógica de negócio e organização do código.
+  Projeto acadêmico desenvolvido durante a graduação, aplicando conceitos de engenharia de software.
 
-- **Sistema de Arquivamento Digital de Documentos**  
-  Projeto voltado à digitalização e gerenciamento de documentos institucionais, substituindo processos físicos baseados em papel.
-
-## Objetivo profissional
-Busco oportunidade como desenvolvedor back-end júnior ou estagiário, onde eu possa evoluir tecnicamente e contribuir com soluções bem estruturadas.
+## 🎯 Objetivo
+Busco oportunidades de estágio ou desenvolvedor júnior para evoluir tecnicamente e contribuir com projetos reais.
