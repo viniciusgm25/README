@@ -7,6 +7,8 @@ Sou recém-formado em Análise e Desenvolvimento de Sistemas e atualmente curso 
 - Python
 - SQL
 - Git & GitHub
+- HTML
+- CSS
 
 ## 📌 Projetos em destaque
 - **API de Gerenciamento de Tarefas (Java / Spring Boot)**  
